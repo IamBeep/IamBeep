@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishmam Faruki</h1>
-<h3 align="center">Data Analyst | Python Enthusiast | SQL Wizard | Dashboard Storyteller</h3>
+<h3 align="center">Data Analyst | Dashboard Storyteller | Python Developer |  AI Explorer | Sales Strategist | Sql Wizard</h3>
 
 <p align="center">
   <a href="mailto:faruki.cse@gmail.com"><img src="https://img.shields.io/badge/Email-faruki.cse@gmail.com-blue?style=flat&logo=gmail"></a>
@@ -11,70 +11,101 @@
 
 ## 👨‍💻 About Me
 
-🔍 I’m a **Data Analysis and Research Executive** with 1 year of hands-on experience transforming raw data into real-world insights using Python, SQL, Power BI, and marketing analytics.
+I'm a **Data Analysis & Research Executive** with hands-on success in turning business data into revenue-driving insights. I specialize in **Python**, **SQL**, and **Power BI**, with a strong focus on **psychographic analytics**, **data storytelling**, and **AI-based systems**.
 
-🎯 My passion lies in **psychographic profiling**, business data analysis, and building systems that think *beyond the obvious*.
+💼 I bring a **unique edge** to data work — thanks to my background as a **Sales Manager** and **Business Development Officer**. I’ve directly led sales operations, increased revenue by over 105%, and built pricing tools that close deals faster. I don’t just analyze data — I know how to use it to **sell smarter and scale faster**.
 
-🧠 Built a **Psychographic Marketing Model** & **Job Recommendation System** that combined AI with psychology to unlock patterns and behaviors in consumer and candidate data.
+🤖 I'm passionate about **Artificial Intelligence**, and love working on AI-powered models that uncover behavior, personalize experiences, and help businesses grow.
 
-🌱 Currently exploring **AI-driven marketing**, **predictive analytics**, and **full-stack dashboards**.
+🚀 As a Computer Engineer, I combine technical depth with business instinct — delivering **automated systems**, **dashboards**, and **predictive models** that actually get results.
+
+> 💬 **Better Call Beep!** Whether you're selling products or scaling platforms — I can build you the insights to do it better.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Real-World Business Impact
 
-- **Languages:** Python, SQL (MySQL, PostgreSQL, Oracle), C++, Java, C#, HTML, CSS, JS
-- **Libraries & Tools:** Pandas, Matplotlib, Power BI, Excel, Metabase
+- 💰 **Increased monthly sales by 105%** as a Business Development Officer for a US-based custom apparel company.
+- ⚙️ Built a **Python-powered pricing automation tool** to streamline quoting and improve client response times.
+- 🧾 Managed remote sales ops, team coordination, and CRM flows — turning leads into long-term customers.
+- 🎯 Combined **data + sales strategies** to generate over **$20,000 in 2 months**.
+
+---
+
+## 🧰 Tech Toolbox
+
+- **Languages:** Python, SQL (PostgreSQL, MySQL, Oracle), C++, C#, HTML, CSS, JavaScript
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Dashboards:** Power BI, Excel, Metabase
 - **Databases:** MsSQL, MySQL, PostgreSQL, Oracle
-- **Others:** GitHub, Git, VS Code, pgAdmin
+- **AI & ML:** Recommender Systems, OCEAN/DISC/BFI-2 Models, ML Techniques, Supervised Learning
+- **Others:** Git, GitHub, VS Code, Jupyter Notebook, pgAdmin
 
 ---
 
 ## 📊 Featured Projects
 
-### 🚀 [Psychographic Profiling Marketing Model](https://github.com/IamBeep/Psychographic-Profiling-Model)
-Custom Python-based algorithm using survey data (demographic, geographic, psychographic) to drive targeted marketing strategies.
+### 🎯 [Psychographic Profiling Marketing Model](https://github.com/IamBeep/Psychographic-Profiling-Model)
+Custom Python-based algorithm analyzing demographic, geographic, and psychographic data to build actionable marketing strategies.
 
 ### 💼 [Job Recommendation System](https://github.com/IamBeep/Job-Recommendation-Psychographic)
-AI-powered recommender system using DISC, OCEAN, and BFI-2 models to match job seekers and employers through psychographic insights.
+AI-driven recommender system leveraging personality models (DISC, OCEAN, BFI-2) to match candidates to the best-fit jobs.
 
-### 🎶 [Music Store Data Analysis](https://github.com/IamBeep/Music_Store_Data_Analysis)
-PostgreSQL + Data storytelling to discover trends and customer behavior in a music store.
+### 🎧 [Music Store Data Analysis](https://github.com/IamBeep/Music_Store_Data_Analysis)
+Data storytelling using PostgreSQL — uncovering customer behavior and music genre trends.
 
-### 📈 [Super Store Dashboard (Power BI)](https://github.com/IamBeep/SuperStore-Dashboard-PowerBI)
-Interactive visual insights into sales and product performance.
+### 📈 [Super Store Dashboard (Power BI)](https://github.com/IamBeep/Super_Store_Data_Analysis_PowerBi)
+Interactive business intelligence dashboard focused on product and sales performance.
 
-### 🚬 [Smokers Dashboard](https://github.com/IamBeep/Smokers-Dashboard-PowerBI)
-Country-wide smokers analysis using Power BI to assist policy makers & marketers.
+### 🧪 [WPPOOL Growth and Churn Analysis](https://github.com/IamBeep/WPPOOL-ANALYSIS)
+Business growth study using Python, SQL & Power BI — focusing on customer churn, retention, and engagement.
 
----
+### 🚬 [Smokers Dashboard](https://github.com/IamBeep/Smokers-Dashboard)
+Power BI visualization analyzing smoker demographics and policy impacts by region.
 
-## 🏆 Research
+### 📺 [Netflix Dataset SQL Project](https://github.com/IamBeep/netflix_project_sql)
+SQL-based deep dive into content types, popularity trends, and audience segmentation.
 
-📄 [Automated Skin Disease Classification using Machine Learning](https://ieeexplore.ieee.org/document/10099354) – Published on IEEE Xplore
+### 🛍️ [Vrinda Store Sales Analysis](https://github.com/IamBeep/Vrinda-store-Data-analysis-Ms-Excel)
+Excel-powered dashboard visualizing seasonal trends and KPIs for a retail store.
 
----
-
-## 📚 Certifications
-
-- **Bohubrihi Data Analysis Course** – Advanced concepts in real-world data cleaning, analysis, and visualization.
-
----
-
-## ❤️ Volunteering & Leadership
-
-🫶 Founder of **Prottasha**, a non-profit social org donating food & clothes to the needy.
-
-🎓 Head Organizer at AUST – Successfully managed 4+ large events, raised over 10,00,000 BDT in sponsorships.
+### 📚 [Bohubrihi Data Analysis Course](https://github.com/IamBeep/Bohubrihi-Data-Analysis-Course)
+Case-based learning with Python and SQL — includes data cleaning, analysis, and visualization.
 
 ---
 
-## 📫 Let's Connect!
+## 📄 Publication
 
-- Email: [faruki.cse@gmail.com](mailto:faruki.cse@gmail.com)
-- LinkedIn: [Ishmam Faruki](https://linkedin.com/in/ishmam-faruki-67b698170)
-- Portfolio: [ishmamfaruki.github.io](https://iambeep.github.io/ishmamfaruki.github.io/)
+🧠 [IEEE: Automated Skin Disease Classification](https://ieeexplore.ieee.org/document/10099354)  
+Used ML techniques to detect skin conditions with high accuracy.
 
 ---
 
-⭐️ **Feel free to check out my repositories, fork what you like, and connect if you have exciting opportunities!**
+## 🏅 Certifications
+
+- ✅ **Bohubrihi Data Analysis Course** – Advanced real-world use of Python & SQL for business analytics
+
+---
+
+## 👥 Leadership & Volunteering
+
+- 🧑‍🎓 Head Organizer at AUST – Led 4+ events; raised 10+ Lakh BDT in sponsorships  
+- 🫶 Founder of **Prottasha** – A non-profit supporting the underprivileged with food and clothing drives  
+- 🧪 **Project Head** at Asiatic Trade Marketing Services Limited – Led data-driven marketing and research initiatives, including psychographic profiling models  
+- 🧾 **Team Leader** at Clothing Fitz – Managed remote sales operations, team coordination, CRM workflows, and client success. Turned leads into long-term customers through strategy and automation
+
+
+---
+
+## 📫 Let’s Work Together
+
+- 📧 Email: [faruki.cse@gmail.com](mailto:faruki.cse@gmail.com)
+- 🌐 Portfolio: [ishmamfaruki.github.io](https://iambeep.github.io/ishmamfaruki.github.io/)
+- 💼 LinkedIn: [Ishmam Faruki](https://linkedin.com/in/ishmam-faruki-67b698170)
+
+---
+
+⭐️ _Feel free to explore my repositories, fork what you like, and connect if you're looking for smart solutions._
+
+> 💡 _Need powerful insights, clear dashboards, or strategic automation?_  
+> 🎙️ **Better Call Beep!**
