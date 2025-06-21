@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishmam Faruki</h1>
-<h3 align="center">Data Analyst | Dashboard Storyteller | Python Developer |  AI Explorer | Sales Strategist | Sql Wizard</h3>
+<h3 align="center">Data Analyst | Dashboard Storyteller | Python |  AI Explorer | Sales Strategist | Sql Wizard</h3>
 
 <p align="center">
   <a href="mailto:faruki.cse@gmail.com"><img src="https://img.shields.io/badge/Email-faruki.cse@gmail.com-blue?style=flat&logo=gmail"></a>
